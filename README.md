@@ -28,7 +28,7 @@ This project is a powerful Python-based tool that bridges the gap between natura
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/natural-language-to-sql.git
+   git clone [https://github.com/yourusername/natural-language-to-sql.git](https://github.com/seotanvirbd/Simple-Langchain-SQL-Agent.git)
    cd natural-language-to-sql
    ```
 
