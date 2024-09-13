@@ -1,5 +1,5 @@
 # Natural Language to SQL: A Python Tool Using LLMA3.1 and LangChain
-
+## You may find the step-by-step video tutorial about this project on [▶️ YouTube](https://youtu.be/C_Pz3iDvkuU).
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![LLMA3.1](https://img.shields.io/badge/LLMA-3.1-orange)
 ![LangChain](https://img.shields.io/badge/LangChain-latest-green)
